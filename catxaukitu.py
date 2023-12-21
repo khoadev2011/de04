@@ -7,6 +7,6 @@ for x in range(1, len(v)):
     if nv == nv[::-1]:
         print(x)
         break
-    else:
-        print(0)
-        break
+        
+
+print(0)
